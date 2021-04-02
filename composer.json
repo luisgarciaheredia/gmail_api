@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "google/apiclient": "v2.0.0"
+        "google/apiclient": "v2.7.2"
     }
 }
