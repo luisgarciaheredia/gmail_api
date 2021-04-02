@@ -1,0 +1,13 @@
+{
+    "name": "vendor/gmail-api",
+    "description": "Description of project gmail_api.",
+    "authors": [
+        {
+            "name": "Crack",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "google/apiclient": "v2.0.0"
+    }
+}
