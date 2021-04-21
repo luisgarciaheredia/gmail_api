@@ -8,6 +8,8 @@
         }
     ],
     "require": {
-        "google/apiclient": "v2.7.2"
+        "google/apiclient": "v2.7.2",
+        "google/cloud-storage": "v1.23.1",
+        "google/cloud-bigquery": "v1.22.0"
     }
 }

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "entel-ecommerce",
+  "private_key_id": "5b11ddb572e4fb81697ef849bf54aa2cc23d5bf7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbUaIf3yzMauwV\n9JFs9oMxylXN6ausIu3ibKU9VsaS2N67udCyTSfptx0h49N4QkaLbicFH/dXvuPl\ne16yRr20TJj5dsx6f+DU1sp4lEqbu/mCVGRVI1RFr0sFib7CESAvP4af99mgExpb\nnICLgl9VfpbXtLwsBNp9ub+0QEVlizBsQU2JFeueD6fbJFfUpBnoyiiFdxRRVOhd\nAnknvKpCDLV5wBppoh10wO9kSpu/w3malwbkdSQvi8A4N2+W7Mujyqpo1qicB5/t\nTjORTfmS4zwrIdnYmP5j8VCg3CtDwEQPEEHVnHosEDR16OK6yedlaroSQ//ImOoK\nZtAJZs2HAgMBAAECggEAHCZtt0aMzaNvBbW8UW6Qp1GPqDGKbI/tKvyuoYwOSnyV\n63rYVn0VwZH/Jhbue9yR3m/3MoQIWisGaFw96txZRBeizj5D1Pit8dOsmEPRvGHT\nuY6THuRn0CvwPAKSnqkrvDTHVv1X4bZ3Uck+1z6WyvadGOG6Age7cvC7skCfnP6U\nO9bvok/ahMl+uT69f7k5ZBkhVFBGVG6r4M4xTCMm4KXm4wq5RKDSbHgNRHJjs8u1\nzPyuX6pRbYwz41BVSLzR3Lmt7EtFTIh0KkBLbIf4JN+go1VHupDqVTMVi41SUogM\n7U9PpZ/k7pqkVN/4gyS8G1LZuVzJid9B3Sok5OBdpQKBgQDzd+07Vc2PbxUX75rw\n3CBqkhDBkw6riEeN+ADJblVjSXf1/Th2rU5l7ftGA3YYLDx0yQEG47lHV/TFB3mg\nt12LcjiLAYCcX6r1Q3Dp70n93YrqENyVXXRbcvg1QcgG0PpRzvguMqfZBJMJRYa7\nxrScxkzZkE4pA/UiUwCRG8VXBQKBgQDmm3+fOdDozngenVWXnAAeQiaRk1dU9PJ1\n/PaLcVgMyy5mUYtjgCCOkc9c1/OWQGqsHWK/3T9xf248754X9jlim3ZWbYsvxc0h\nzHVKqarvYfHClI3b9mTHHOVdDCRNHJmfFd7nafAAfeMKh0lknOolB5CuHmrrPrGY\nQg2oX74gGwKBgQCku7VZW2H9teRo0KdeZyLL2M7bmxvm9gusRGyL3kqKJnCzkUT+\nD58nGpHUuozSKEQzpLk8JyL64cls8vTZyJfTvVICw954b8alsp8Yud6vlZHjc8s8\niQIsyiqlJkAoVIe6iLal04J8NTsjn9ZdAUK9fPMMljY8TEA1nEGa7VZl3QKBgHAw\n/qnsauKYcIAUc2vLDZOrAzCXykke0kbsxtWYUwoGX5CP44yI7U3vSj8VIQDcXglW\nUpCdhxwkrvEecn+d3tVGZRAvQyP+y4nB+t5UJUFJGWFc/JcjDGyCdmQKYC7T1zk6\nXrOfKpBSrn6UyvQUEyXoxE6xpbrFSYmVuSdNTSY5AoGAZrdNao/8O+ZaCWu/qmDr\nH+gd56uyFH1DcNuqWh3A8ZXSsaf1gUFcAVKTiCnDpdMqtCFj8wTD/clQGBtUyE9k\n2b/TqFC02bsmYlxn5FGa9hEgX0WYSyxzdjQ9NVM335D04zP97cPPDMiF1+hNgpKF\nq5SlZvGydsEBJwcQSNibLKI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigqueryapi@entel-ecommerce.iam.gserviceaccount.com",
+  "client_id": "116730001856599900617",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigqueryapi%40entel-ecommerce.iam.gserviceaccount.com"
+}
